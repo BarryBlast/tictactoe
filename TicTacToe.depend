@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1671341733 source:c:\users\timba\desktop\personal projects\tictactoe\main.cpp
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	<windows.h>
+	<unistd.h>
+	<ctype.h>
+
